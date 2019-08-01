@@ -1,0 +1,32 @@
+header h1{
+    padding-top: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.buttons{
+    margin-bottom: 5px;
+}
+
+.score{
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+.delete{
+    padding-top: 10px;
+    cursor: pointer;
+}
+
+.container{
+    max-width: 600px;
+}
+
+#buttonSubmit{
+    margin-top: 10px;
+    margin-bottom: 20px
+}
+
+.form-check{
+    margin-left: 40px;
+}
